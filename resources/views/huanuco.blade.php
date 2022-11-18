@@ -27,19 +27,23 @@
        >VISITE HUÁNUCO</h1>
         <img src="https://elcomercio.pe/resizer/JOTenpX_RuNkMvNuIkUjJLeWSYc=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/7KU6I5LQOFEFHLNAXB4UE3S4KQ.jpg" class="rounded" alt="...">
      </div>
-     <ul class="nav">
-  <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="#">PRESENTACIÓN    </a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">LUGARES TURISTICOS</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">COSTO</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link disabled">DATOS</a>
-  </li>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-7">
+    <ul class="list-group">
+  <li class="list-group-item">An item</li>
+  <li class="list-group-item">A second item</li>
+  <li class="list-group-item">A third item</li>
+  <li class="list-group-item">A fourth item</li>
+  <li class="list-group-item">And a fifth one</li>
 </ul>
+    </div>
+  </div>
+<div class="col-4"></div>
+<div class="col-4"></div>
+<div class="col-4"></div>
+
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
